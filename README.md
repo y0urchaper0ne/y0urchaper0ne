@@ -1,7 +1,7 @@
 [![MasterHead](https://ie.wampi.ru/2023/07/18/Hello-world.jpg)](https://rishavchanda.io)
 <h1 align="center">What’s poppin' 👋 I'm Ilya Nikitin</h1>
 <h3 align="center">A passionate python backend developer from Russia</h3>
-<img align="right" alt="Coding" width="400" src="https://tiniatov.ru/wp-content/uploads/f/8/2/f82e66a1b3be602ba90a3b3a3c31b561.gif">
+<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ### My projects
 
