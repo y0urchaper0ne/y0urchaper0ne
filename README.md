@@ -9,7 +9,7 @@
 
 - 👯 Backend for social media with recipes [Foodgram-project-react](https://github.com/y0urchaper0ne/foodgram-project-react)
 
-- 🤝 API for rating service [YaMDb API](https://github.com/y0urchaper0ne/api_final_yatube)
+- 🤝 API for rating service [YaMDb API](https://github.com/y0urchaper0ne/yamdb_final)
 
 ### About me
 
